@@ -15,7 +15,6 @@ dependencies {
     compile 'com.typesafe.akka:akka-camel_2.11:2.4.1'
     compile 'org.apache.camel:camel-scala:2.16.1'
     compile 'org.apache.camel:camel-slack:2.16.1'
-    compile 'org.apache.camel:camel-xmpp:2.16.1'
     compile 'org.springframework:spring-beans:4.2.4.RELEASE'
     compile 'org.springframework:spring-context:4.2.4.RELEASE'
     compile 'org.psnively:spring_scala_4-2-0_2.11:1.0.0'
