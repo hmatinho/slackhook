@@ -25,7 +25,7 @@ tasks.withType(ScalaCompile) {
     scalaCompileOptions.useCompileDaemon = true
 }
 
-mainClassName = "com.ignidata.Slackbot"
+mainClassName = "com.ignidata.Slackhook"
 
 group 'com.ignidata'
 version '1.0-SNAPSHOT'
